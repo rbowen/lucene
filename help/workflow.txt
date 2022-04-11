@@ -3,6 +3,9 @@ Typical workflow and tasks
 
 This shows some typical workflow gradle commands.
 
+Ensure that you've formatted your changes corectly
+gradelew tidy
+
 Run tests on a module:
 gradlew -p lucene/core test
 
